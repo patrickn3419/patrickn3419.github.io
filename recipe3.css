@@ -1,0 +1,31 @@
+.main {
+    background-color: #FFEBB5;
+}
+
+.header {
+    background-color: #F9DF74;
+}
+
+.separator {
+    border: 15px solid #A72608;
+    margin-bottom: 50px;
+}
+
+.directions1 {
+    background-color: #F9DF74;
+    padding: 20px;
+}
+
+.footer {
+    background-color: #A72608;
+    color: #FFEBB5;
+    text-align: center;
+}
+
+.recipe {
+    margin: 20px;
+}
+
+#recipe {
+    margin: 20px;
+}
